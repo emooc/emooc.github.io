@@ -1,2 +1,2 @@
 # emooc.github.io
-前端小师弟GitPage主页
+前端小师弟
